@@ -28,7 +28,7 @@ services:
                - MEDIAWIKI_SITE_NAME=MediaWiki
                - MEDIAWIKI_SITE_LANG=en
                - MEDIAWIKI_ADMIN_USER=admin
-               - MEDIAWIKI_ADMIN_PASS=rosebud
+               - MEDIAWIKI_ADMIN_PASS=admin
                - MEDIAWIKI_UPDATE=true
                - MEDIAWIKI_VERSION=1.25.3
                - MEDIAWIKI_DB_USER=root
